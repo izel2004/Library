@@ -24,7 +24,7 @@ http://localhost:5000
 | GET    | /api/members     | Get all members           | -                 |
 | GET    | /api/members/:id | Get a member by ID        | -                 |
 | POST   | /api/members     | Add a new member          | `{ "name": "precy Smith", "email": "precy@example.com" }` |
-| PUT    | /api/members/:id | Update a member by ID     | `{ "email": "john_new@example.com" }` |
+| PUT    | /api/members/:id | Update a member by ID     | `{ "email": "precy_new@example.com" }` |
 | DELETE | /api/members/:id | Delete a member by ID     | -                 |
 
 ### Loans
