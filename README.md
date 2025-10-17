@@ -1,13 +1,14 @@
 # Library
 
-A simple Library Management System backend built using Node.js, Express, and MongoDB.
+This is my Library Management backend project built with Node.js and MongoDB.
 
 ## Features
-- Add, update, and delete books
-- Manage users and loan records
-- Return and track book availability
+- Add, edit, and delete books
+- Manage members and loans
+- Return and update book statuses
 
 ## How to run
 ```bash
 npm install
 npm start
+         |
