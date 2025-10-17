@@ -14,7 +14,7 @@ http://localhost:5000
 |--------|----------------|---------------------------|-------------------|
 | GET    | /api/books      | Get all books             | -                 |
 | GET    | /api/books/:id  | Get a single book by ID   | -                 |
-| POST   | /api/books      | Add a new book            | `{ "title": "My Book", "author": "Jane Doe", "isbn": "1234567890", "publishedDate": "2025-01-01" }` |
+| POST   | /api/books      | Add a new book            | `{ "title": "My Book", "author": "Jarden liezel", "isbn": "123", "publishedDate": "2025-01-01" }` |
 | PUT    | /api/books/:id  | Update a book by ID       | `{ "title": "Updated Book" }` |
 | DELETE | /api/books/:id  | Delete a book by ID       | -                 |
 
@@ -23,7 +23,7 @@ http://localhost:5000
 |--------|-----------------|---------------------------|-------------------|
 | GET    | /api/members     | Get all members           | -                 |
 | GET    | /api/members/:id | Get a member by ID        | -                 |
-| POST   | /api/members     | Add a new member          | `{ "name": "John Smith", "email": "john@example.com" }` |
+| POST   | /api/members     | Add a new member          | `{ "name": "precy Smith", "email": "precy@example.com" }` |
 | PUT    | /api/members/:id | Update a member by ID     | `{ "email": "john_new@example.com" }` |
 | DELETE | /api/members/:id | Delete a member by ID     | -                 |
 
