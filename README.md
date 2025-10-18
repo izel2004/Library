@@ -48,3 +48,9 @@ Track which member has borrowed which book, and when it’s due.
 | **POST**   | `/api/loans`      | Create a new loan (borrow a book) |
 | **PUT**    | `/api/loans/:id`  | Update loan details (e.g., return a book) |
 | **DELETE** | `/api/loans/:id`  | Delete a loan record             |
+
+## Environment Variables (.env)
+
+```env
+PORT=<your_port_number>
+MONGODB_URI=mongodb+srv://<username>:<password>@<cluster_name>.mongodb.net/<database_name>?retryWrites=true&w=majority
