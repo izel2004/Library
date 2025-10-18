@@ -10,9 +10,9 @@ http://localhost:5000
 
 ---
 
-## 📘 Endpoints
+##  Endpoints
 
-### 🧾 Books
+###  Books
 Manage all book records in the library.
 
 | Method | Endpoint        | Description              |
@@ -25,7 +25,7 @@ Manage all book records in the library.
 
 ---
 
-### 👥 Members
+### Members
 Manage library members and their information.
 
 | Method | Endpoint          | Description              |
@@ -38,7 +38,7 @@ Manage library members and their information.
 
 ---
 
-### 📖 Loans
+### Loans
 Track which member has borrowed which book, and when it’s due.
 
 | Method | Endpoint         | Description                 |
