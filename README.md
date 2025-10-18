@@ -1,6 +1,7 @@
-# 📚 Library API
+# Library API
 
-A simple Library Management System backend built using **Node.js**, **Express**, and **MongoDB Atlas**.
+A Library Management System backend built using **Node.js**, **Express**, and **MongoDB Atlas**.
+This API allows you to manage books, members, and loans
 
 ---
 
