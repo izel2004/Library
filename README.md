@@ -6,7 +6,7 @@ This API allows you to manage books, members, and loans
 ---
 
 ## 🌐 Base URL
-[http://](https://library-eight-liart.vercel.app/)
+https://library-eight-liart.vercel.app/
 
 ---
 
